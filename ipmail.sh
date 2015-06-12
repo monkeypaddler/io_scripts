@@ -1,7 +1,11 @@
 #!/bin/sh
 
-SUBJ="pumpkin IP has changed"
-EMAIL="phil.janes@gmail.com"
+#
+# version 1.1
+#
+
+SUBJ="io IP has changed"
+EMAIL="monkeypaddlerpi@gmail.com"
 LOGFILE=/home/dad/scripts/ipmail.log
 
 echo "Firing ipmail.sh script...`date`" >> $LOGFILE
