@@ -6,7 +6,7 @@
 
 SUBJ="io IP has changed"
 EMAIL="monkeypaddlerpi@gmail.com"
-LOGFILE=/home/dad/scripts/ipmail.log
+LOGFILE=/home/dad/io_scripts/ipmail.log
 
 echo "Firing ipmail.sh script...`date`" >> $LOGFILE
 
