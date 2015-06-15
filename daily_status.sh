@@ -1,10 +1,10 @@
 #!/bin/bash
 #
-# ver 1.1
+# ver 1.2
 #
 
 DAILY_FILE="/home/dad/io_scripts/daily_status.out"
-SUBJECT="io daily status report"
+SUBJECT="io daily status report ver 1.2"
 TODAY=$(date)
 HOST=$(hostname)
 
